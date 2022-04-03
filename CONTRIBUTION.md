@@ -3,7 +3,7 @@ Participation in the Ersilia community is governed by the [Code of Conduct](http
 
 # Contribute
 
-Ersilia is a open-source, community-maintained project hosted at [Github](https://github.com/ersilia-os/ersilia). The project actively encourages aspiring and experienced users to dive in and add their best contribution to the project. There  are a number of ways you may help with the project: 
+Ersilia is an open-source, community-maintained project hosted at [Github](https://github.com/ersilia-os/ersilia). The project actively encourages aspiring and experienced users to dive in and add their best contribution to the project. There  are a number of ways you may help with the project: 
 
 1 Create a GitHub account (if you don't have one).
 
